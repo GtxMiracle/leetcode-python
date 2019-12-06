@@ -4,7 +4,7 @@
 # Contact : gtx@pku.edu.cn
 # File    : 1.py
 """
-Description : 
+Description :  Two Sum
 """
 
 
